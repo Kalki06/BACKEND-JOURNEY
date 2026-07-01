@@ -46,7 +46,3 @@ while(True):
     cont_or_not = input("Do another calculation? (y/n)\n")
     if(cont_or_not == 'n'):
         break
-
-"""
-
-"""
