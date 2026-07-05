@@ -63,7 +63,3 @@ while(True):
 
         result = operations[user_choice](num1, num2)
         print(result)
-
-
-        
-
