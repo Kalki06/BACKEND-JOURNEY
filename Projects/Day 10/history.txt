@@ -1,0 +1,2 @@
+12 / 0 = Division by Zero is not possible !! 
+12 + 23 = 35
